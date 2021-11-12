@@ -1,2 +1,2 @@
-# personaapi-dio
+# personapi-dio
 Criação de gerenciamento de pessoa em API REST com Spirng Boot
